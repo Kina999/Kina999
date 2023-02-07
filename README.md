@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ---
 
 ### :woman_technologist: About Me :
-I am a Student of Electrical Engineering and Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Serbia.
+I am a Teaching Assistant at Faculty of Techincal Sciences and Master student of Electrical Engineering and Computer Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Serbia.
 
 <!--- :telescope: I’m working as a Teaching assistant at Faculty of technical sciences in Novi Sad.-->
 
